@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Jeongh00's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-![Jeongh00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongh00&show_icons=true&theme=radical)
+<a href="https://github.com/Jeongh00/github-stats-transparent">
 
-<img src="https://raw.githubusercontent.com/Jeongh00/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+![](https://raw.githubusercontent.com/Jeongh00/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Jeongh00/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 <!--
 **Jeongh00/Jeongh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
