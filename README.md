@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Jeongh00's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
+<p align="center">
+  <br>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeongh00&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yaklede's github stats"></a>&nbsp
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongh00&layout=compact&theme=buefy&hide_border=true"></a>
+</p>
+
 ### SKILLS
 
 <img src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/></a><br/>
