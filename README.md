@@ -42,4 +42,5 @@
 	1. 2022.01 ~ 2022.10 대학교 홈페이지 웹사이트 개발 (신한대, 한밭대, 서울대, 한양대 등) - 백엔드
 	2. 2022.11 ~ 2023.12 sk planet ok cashbag 앱 개발 - 백엔드
 
+### [ COME TO MY BLOG ~~ ](https://velog.io/@austinan/posts)
 
