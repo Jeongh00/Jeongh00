@@ -1,11 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Jeongh00's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-<p align="center">
-  <br>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeongh00&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yaklede's github stats"></a>&nbsp
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongh00&layout=compact&theme=buefy&hide_border=true"></a>
-</p>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeongh00&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yaklede's github stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongh00&layout=compact&theme=buefy&hide_border=true">
+  </a>
+  <a href="https://solved.ac/austinan/" style="flex: 1;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=austinan" align="center">
+  </a>
+</div>
 
 ### SKILLS
 
