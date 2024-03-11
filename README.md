@@ -31,16 +31,29 @@
 <img src ="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src ="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-### EXTRACURRICULAR ACTIVITIES
-	1. 2022.08 ~ 2022.12 큐시즘 26기 학회원 수료
-	2. 2023.02 ~ 2023.05 큐시즘 27기 경영총괄팀원 운영진 수료
-	3. 2023.06 ~ 2023.11 한이음 ICT 멘토링 공모전
-	4. 2023.07 ~ 2024.02 큐시즘 앱 출시 TF 팀 프로젝트 
- 	5. 2024.01 ~ 2024.02 국회 공공데이터 공모전 TF 팀 프로젝트
-
 ### WORK EXPERIENCE
 	1. 2022.01 ~ 2022.10 대학교 홈페이지 웹사이트 개발 (신한대, 한밭대, 서울대, 한양대 등) - 백엔드
 	2. 2022.11 ~ 2023.12 sk planet ok cashbag 앱 개발 - 백엔드
+
+### EXTRACURRICULAR ACTIVITIES
+	1. 2022.08 ~ 2022.12 큐시즘 26기 학회원 수료
+	2. 2023.02 ~ 2023.05 큐시즘 27기 경영총괄팀원 운영진 수료
+	3. 2023.06 ~ 2023.11 한이음 ICT 멘토링 공모전 - 스타트업 성장 예측 프로그램 앱 개발
+	4. 2023.07 ~ 2024.02 큐시즘 앱 출시 TF 팀 프로젝트 
+ 	5. 2024.01 ~ 2024.02 국회 공공데이터 공모전 TF 팀 프로젝트 - 국회 안건 투표 앱 개발
+  	6. 2024.03 ~ 2024.11 한이음 ICT 멘토링 공모전 - 인공지능 유사도를 활용한 재료 기반 음식 추천 AR 서비스 개발
+
+### EXTRACURRICULAR ACTIVITIES (IN SCHOOL)
+	1. 2021.08 ~ 2021.12 전자공학과 36.5db 학술 동아리
+ 	2. 2024.03 ~ 2024.12 컴퓨터공학과 TCP 학술 동아리
+  	3. 2024.03 ~ 2024.12 멋쟁이사자처럼 12기 백엔드 파트 개발자
+
+### STUDY CLUB
+	1. 2024.03 ~ 2024.04 java study
+ 	2. 2024.03 ~ 2024.12 algorithm study
+
+### CERTIFICATES
+	1. 2024.04 SQL DEVELOPER 자격증
 
 ### [ COME TO MY BLOG ~~ ](https://velog.io/@austinan/posts)
 
