@@ -49,8 +49,8 @@
   	3. 2024.03 ~ 2024.12 멋쟁이사자처럼 12기 백엔드 파트 개발자
 
 ### STUDY CLUB
-	1. 2024.03 ~ 2024.04 java study
- 	2. 2024.03 ~ 2024.12 algorithm study
+	1. 2024.03 ~ 2024.04 java study - JavaGrowthStudy/java-study
+ 	2. 2024.03 ~ 2024.12 algorithm study - ST-1day-1boj/1day-1boj
 
 ### CERTIFICATES
 	1. 2024.04 SQL DEVELOPER 자격증
