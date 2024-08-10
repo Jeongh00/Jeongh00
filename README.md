@@ -46,7 +46,8 @@
 ### EXTRACURRICULAR ACTIVITIES (IN SCHOOL)
 	1. 2021.08 ~ 2021.12 전자공학과 36.5db 학술 동아리
  	2. 2024.03 ~ 2024.12 컴퓨터공학과 TCP 학술 동아리
-  	3. 2024.03 ~ 2024.12 멋쟁이사자처럼 12기 백엔드 파트 개발자
+  	3. 2024.03 ~ 2024.12 멋쟁이사자처럼 12기 백엔드 파트 개발자 수료
+        4. 2024.08 ~ 2024.12 구름톤 유니브 3기 백엔드 파트 개발자 수료
 
 ### STUDY CLUB
 	1. 2024.03 ~ 2024.04 java study - JavaGrowthStudy/java-study
@@ -54,6 +55,7 @@
 
 ### CERTIFICATES
 	1. 2024.04 SQL DEVELOPER 자격증
+ 	2. 2024.07 OPIC - IH certified
 
 ### [ COME TO MY BLOG ~~ ](https://velog.io/@austinan/posts)
 
