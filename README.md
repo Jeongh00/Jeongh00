@@ -57,5 +57,10 @@
 	1. 2024.04 SQL DEVELOPER 자격증
  	2. 2024.07 OPIC - IH certified
 
+### AWARDS
+	1. 2021.01 1학년 2학기 성적장학금 수여
+ 	2. 2024.08 3학년 1학기 성적장학금 수여
+  	3. 2024.08 한이음 ICT 멘토링 특허 출헌 입선
+
 ### [ COME TO MY BLOG ~~ ](https://velog.io/@austinan/posts)
 
